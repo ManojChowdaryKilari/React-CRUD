@@ -1,0 +1,34 @@
+{
+  "Products": [
+    {
+      "name": "Oneplus ",
+      "price": "28000",
+      "category": "mobile",
+      "id": 1
+    },
+    {
+      "name": "Iphone",
+      "price": "95000",
+      "category": "mobile",
+      "id": 2
+    },
+    {
+      "name": "Mi note 13",
+      "price": "26400",
+      "category": "mobile",
+      "id": 3
+    },
+    {
+      "name": "Nokia",
+      "price": "28000",
+      "category": "mobile",
+      "id": 4
+    },
+    {
+      "name": "Iphone 14",
+      "price": "750000",
+      "category": "mobile",
+      "id": 5
+    }
+  ]
+}
